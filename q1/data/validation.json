@@ -1,0 +1,37 @@
+{
+  "free_spectrum_two_max_error": 2.442490654175333e-15,
+  "free_spectrum_three_max_error": 2.3092638912203256e-14,
+  "hermiticity_max_error": 0.0,
+  "constant_free_state_residual": 0.0,
+  "commutator_relative_errors": {
+    "P12": 1.153004777736624e-16,
+    "P13": 1.3439284623458665e-16,
+    "R90": 1.121241605742917e-16,
+    "Mx": 1.1708781194876063e-16
+  },
+  "dense_vs_sparse_max_error": 2.6645352591003757e-15,
+  "HF_slopes": [
+    -0.45950918510442657,
+    -2.3204377195146817,
+    -0.9284108451597078
+  ],
+  "finite_difference_slopes": [
+    -0.45950918504955585,
+    -2.32043771927426,
+    -0.9284108450136053
+  ],
+  "HF_max_error": 2.404219046070466e-10,
+  "tight_tolerance_seed_energy_difference": 1.509903313490213e-14,
+  "tight_tolerance_residuals": [
+    1.350638505535738e-14,
+    8.204193236061738e-15,
+    2.5568815731670352e-14,
+    8.635830047630418e-15
+  ],
+  "benchmark_three_absolute_errors": [
+    0.0004343661126346987,
+    6.251394804701604e-06
+  ],
+  "benchmark_two_absolute_error": 0.00022367845690851595,
+  "passed": true
+}

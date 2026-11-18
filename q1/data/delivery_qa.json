@@ -1,0 +1,30 @@
+{
+  "report_pages": 7,
+  "latex_errors": 0,
+  "latex_layout_warnings": 0,
+  "visual_review": "Expanded derivation pages, explicit matrices and new figures reviewed; no overflowing boxes in final LaTeX build.",
+  "figure_backend": "Python / Matplotlib",
+  "figure_exports": [
+    "PDF",
+    "SVG",
+    "PNG"
+  ],
+  "source_data": [
+    "energies.csv",
+    "crossings.csv",
+    "pair_marginals.csv",
+    "pair_cdf.csv",
+    "kinetic_two_L3.csv",
+    "kinetic_three_L3.csv"
+  ],
+  "validation_passed": true,
+  "number_of_parameter_points": 152,
+  "source_sha256": {
+    "analyze.py": "1a513f4d1564f07fe5e2ea04f8e3766c4abe67eda563ba5efa859e6efeea194d",
+    "illustrate_matrices.py": "f13a07d8f2b652b3e6a8f67614980f071db3236346ac40d18d2a681c07e2b5a8",
+    "model.py": "1b7017bf76b914b178bde28903096285c590c556d280f323fec9786a51af7070",
+    "run.py": "06445792541bac08dafeb1c3df4032886c2d2ca8c17476bd0fbcc68c5c047bd3",
+    "validate.py": "30f559f566ccff288bf6371c75cd43c5a46d097238f2182273f64cc91a6e1875"
+  },
+  "matrix_validation_passed": true
+}

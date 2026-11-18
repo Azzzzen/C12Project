@@ -1,0 +1,6 @@
+__pycache__/
+report/*.aux
+report/*.log
+report/*.out
+report/*.synctex.gz
+report/build*.log

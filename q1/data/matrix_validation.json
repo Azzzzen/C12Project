@@ -1,0 +1,24 @@
+{
+  "L": 3,
+  "two_body_kronecker_max_error": 0.0,
+  "three_body_kronecker_max_error": 0.0,
+  "three_body_block_max_error": 0.0,
+  "three_body_first_row_columns": [
+    0,
+    1,
+    2,
+    3,
+    6,
+    9,
+    10,
+    18,
+    20,
+    27,
+    30,
+    54,
+    60
+  ],
+  "two_body_nnz": 45,
+  "three_body_nnz": 1053,
+  "passed": true
+}
